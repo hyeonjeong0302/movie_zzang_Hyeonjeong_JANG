@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie_zzang_Hyeonjeong_JANG/static/css/main.e087c9fa.css",
+    "main.js": "/movie_zzang_Hyeonjeong_JANG/static/js/main.c2823137.js",
+    "static/js/787.216b3536.chunk.js": "/movie_zzang_Hyeonjeong_JANG/static/js/787.216b3536.chunk.js",
+    "index.html": "/movie_zzang_Hyeonjeong_JANG/index.html",
+    "main.e087c9fa.css.map": "/movie_zzang_Hyeonjeong_JANG/static/css/main.e087c9fa.css.map",
+    "main.c2823137.js.map": "/movie_zzang_Hyeonjeong_JANG/static/js/main.c2823137.js.map",
+    "787.216b3536.chunk.js.map": "/movie_zzang_Hyeonjeong_JANG/static/js/787.216b3536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e087c9fa.css",
+    "static/js/main.c2823137.js"
+  ]
+}
